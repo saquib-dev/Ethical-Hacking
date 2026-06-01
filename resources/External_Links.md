@@ -15,3 +15,10 @@ Curated links to platforms and documentation for further study and practice.
 ## 📖 Learning Portals
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Free high-quality web hacking training.
 - [Kali Linux Documentation](https://www.kali.org/docs/) - Official docs for the industry-standard OS.
+- [SANS Institute](https://www.sans.org/) - World-class cybersecurity training and certifications.
+- [Cybrary](https://www.cybrary.it/) - Free and paid courses for various security roles.
+
+## 🛠️ Specialized Tools Documentation
+- [Nmap Network Scanning Guide](https://nmap.org/book/man.html) - The official manual for Nmap.
+- [Burp Suite Documentation](https://portswigger.net/burp/documentation) - Deep dives into the most powerful web proxy.
+- [Metasploit Documentation](https://docs.metasploit.com/) - Guide for the exploitation framework.
