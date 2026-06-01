@@ -54,6 +54,9 @@ To get the most out of this curriculum, it helps to understand how the resources
 3. Master the tools listed in the **Tools Repository** as they appear in the curriculum.
 4. Track your progress in the `working/roadmap.md` file.
 
+## 🤝 Contributing
+Contributions are welcome! If you find a bug or want to add a new module, feel free to open a Pull Request.
+
 ## 📖 Resources
 - [Glossary & External Links](./resources/) (Coming Soon)
 
